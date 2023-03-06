@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/generalshtorks.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/generalshtorks.github.io/static/js/main.3d6ad9bc.js",
+    "static/js/787.9395d6fa.chunk.js": "/generalshtorks.github.io/static/js/787.9395d6fa.chunk.js",
+    "static/media/logo.svg": "/generalshtorks.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/generalshtorks.github.io/index.html",
+    "main.073c9b0a.css.map": "/generalshtorks.github.io/static/css/main.073c9b0a.css.map",
+    "main.3d6ad9bc.js.map": "/generalshtorks.github.io/static/js/main.3d6ad9bc.js.map",
+    "787.9395d6fa.chunk.js.map": "/generalshtorks.github.io/static/js/787.9395d6fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3d6ad9bc.js"
+  ]
+}
